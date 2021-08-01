@@ -1,5 +1,7 @@
-# VanGogh
-## a hobby project to put Van Gogh's artworks on the map
+## Putting Van Gogh's artworks on the map!
 
-![http://wikidata.org/](https://commons.wikimedia.org/wiki/Category:Powered_by_Wikidata#/media/File:Wikidata_stamp_rec_light.png)
+In this hobby project, I combine data on Van Gogh's artwork in Wikidata⁠—name, image, hosting institution and its coordinates for each artwork⁠—with Folium's visualization capabilities. The product is deployed [here.](https://www.omerfyalcin.com/VanGogh/VanGogh.html)
 
+
+
+<a href="http://wikidata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Wikidata_stamp_rec_light.png" alt="WIKIDATA" width="200"/></a>
