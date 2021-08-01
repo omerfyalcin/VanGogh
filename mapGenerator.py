@@ -4,7 +4,7 @@ import folium
 import requests
 import json
 
-artist_id = "Q5582"  # Q5582 is van Gogh's wikidata id
+artist_id = "Q5582"  # Q5582 is Van Gogh's wikidata id
 
 # function to get SPARQL query result form Wikidata query endpoint as a
 # dictionary
@@ -114,4 +114,4 @@ for location_id in info:
                 max_width=500,
                 max_height=300)))
 
-map.save('vanGogh.html')
+map.save('VanGogh.html')
