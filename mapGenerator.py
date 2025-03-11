@@ -114,4 +114,4 @@ for location_id in info:
                 max_width=500,
                 max_height=300)))
 
-map.save('VanGogh.html')
+map.save('index.html')
